@@ -5,6 +5,7 @@ Completed so far:
   * mass object (equivalent of attr_accessible)
   * sql object (writing methods to interact with the database)
   * searchable (adding the ability to utilize searching a data with ::where)
+  * basic has_many and belongs_to associations (with defaults and overriding defaults)
   
 To do:
-  * complete associations
+  * has_one or has_many through associations

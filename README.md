@@ -8,4 +8,4 @@ Completed so far:
   * basic has_many and belongs_to associations (with defaults and overriding defaults)
   
 To do:
-  * has_one or has_many through associations
+  * has_many and has_one through associations

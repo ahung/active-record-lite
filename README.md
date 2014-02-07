@@ -7,5 +7,4 @@ Completed so far:
   * searchable (adding the ability to utilize searching a data with ::where)
   
 To do:
-  * associatable
-  * associatable2
+  * complete associations
